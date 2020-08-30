@@ -19,7 +19,7 @@
                                 <rect key="frame" x="16" y="20" width="288" height="100"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" name="HelveticaNeue-Bold" family="Helvetica Neue" pointSize="24"/>
-                                <color key="textColor" red="0.49657464029999998" green="0.1186740324" blue="0.086245067420000002" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                <color key="textColor" red="0.49657464029999998" green="0.1186740324" blue="0.086245067420000002" alpha="0.82657320205479456" colorSpace="custom" customColorSpace="displayP3"/>
                                 <nil key="highlightedColor"/>
                             </label>
                         </subviews>
